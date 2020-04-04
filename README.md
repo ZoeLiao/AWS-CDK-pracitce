@@ -1,5 +1,12 @@
+# AWS-CDK-pracitce
+This repository is to pracitce how to build an infrastruct by AWS CDK
 
-# Welcome to your CDK Python project!
+# Set Up
+- Install Node.js (>=10.3.0) and Python (>=3.6)
+- Install CDK CLI: `npm install -g aws-cdk`
+
+
+# Official AWS CDK README - Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
 
